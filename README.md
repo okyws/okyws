@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#"><img width="300" height="300" src="https://static.wixstatic.com/media/ce9db2_eff9582624ae42469103353e9cfcd9a4~mv2.gif"/></a>
 
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oky Wahyu Setyaji</h1>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <a href="https://okyws.herokuapp.com/">I'm Oky Wahyu Setyaji</a></h1>
   <h3 align="center">I'm a passionate Full Stack Javascript Developer from Indonesia.</h3>
 </p>
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/okyws?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://okyws.herokuapp.com)**
 
 - 📫 How to reach me: Reach out to me directly through my **[Email](mailto:okywahyu1@gmail.com) or [Linkedin](https://www.linkedin.com/in/oky-wahyu-setyaji-839601237/)**
 
